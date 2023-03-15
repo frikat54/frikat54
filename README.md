@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frikat54
-- 👀 I’m interested in web desing
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ Any help is appreciated.... Thanks in advance!
 - 📫 How to reach me: fridolin@kathan.co.nz
